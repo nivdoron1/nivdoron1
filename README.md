@@ -1,9 +1,9 @@
 # 🙋‍♂️ About Me:
 💻 Studying Computer Science graduate from Reichman University.
-💻 Starting a Master's in Engineering at the University of California, Berkeley.
+![favicon-16x16](https://github.com/user-attachments/assets/0b81ad19-7159-4e10-b263-be1c54948282) Starting a Master's in Engineering at the University of California, Berkeley.
 <br>🏀 A committed and collaborative team player.
 <br>🧑‍💻 Looking for a job in backend/full-stack development.
-<br>🫂 feel free to contact me at any subject.
+<br> Feel free to contact me in any subject.
 <br>
 
 
